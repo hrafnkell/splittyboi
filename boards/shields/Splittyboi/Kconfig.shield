@@ -1,3 +1,3 @@
 # No whitespace after the comma or in your part name!
 config SHIELD_SPLITTYBOI
-    def_bool $(shields_list_contains,splittyboi)
+    def_bool $(shields_list_contains,Splittyboi)

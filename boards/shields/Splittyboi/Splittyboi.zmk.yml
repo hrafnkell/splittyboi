@@ -1,0 +1,8 @@
+file_format: "1"
+id: splittyboi
+name: Splittyboi
+type: shield
+url: https://github.com/hrafnkell/splittyboi/
+requires: [nice_nano_v2]
+features:
+  - keys
