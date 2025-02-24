@@ -1,17 +1,6 @@
-if SHIELD_SPLITTYBOI_LEFT
+if SHIELD_SPLITTYBOI
 
-# Name must be less than 16 characters long!
 config ZMK_KEYBOARD_NAME
     default "Splittyboi"
-
-config ZMK_SPLIT_ROLE_CENTRAL
-    default y
-
-endif
-
-if SHIELD_SPLITTYBOI_LEFT || SHIELD_SPLITTYBOI_RIGHT
-
-config ZMK_SPLIT
-    default y
 
 endif
