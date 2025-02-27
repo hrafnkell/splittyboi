@@ -38,7 +38,9 @@
 #     artifact-name: corne_left_with_studio
 #
 board: [ "nice_nano_v2" ]
-shield: [ "Splittyboi" ]
+shield: [ "lily58" ]
 include:
   - board: nice_nano_v2
-    shield: Splittyboi
+    shield: lily58_left
+  - board: nice_nano_v2
+    shield: lily58_right
